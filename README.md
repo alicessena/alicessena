@@ -10,9 +10,13 @@
 </ul>
 <strong>Skills:</strong>
 <span>
-  <img src="https://img.shields.io/badge/JavaScript-af552e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-af552e?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-af552e?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/React-af552e?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Figma-af552e?style=flat-square&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-af552e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-af552e?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-af552e?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/React-af552e?style=flat-square&logo=react&logoColor=61DAFB"/>
+</span> <br>
+<strong>Design:</strong>
+<span> 
+  <img src="https://img.shields.io/badge/Figma-af552e?style=flat-square&logo=Figma&logoColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/AdobePhotoshop-af552e?style=flat-square&logo=adobephotoshop&logoColor=1A1A1A"/>
 </span>
