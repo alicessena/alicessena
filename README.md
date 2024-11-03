@@ -1,14 +1,18 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=alicessena&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
+### 🌸 Hi there, I'm Sena!
 
-### Olá, meu nome é Sena!
+<img src="https://img.shields.io/static/v1?label=PROFILE&message=SENA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ALICESENA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>🦄 Sou uma desenvolvedora Front-End em formação!<br/> 
-💼 Procuro compartilhar meu processo de aprendizagem e evolução. </p>
-
-SOCIAL <a href="https://www.linkedin.com/in/alicemariasenapereira"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="https://www.instagram.com/btwsena?igsh=MXhrODJ4cjdwYmNiYw==" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
-SKILLS <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" > <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" > <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-
+<ul >
+  <li> Aspiring Front-End Developer</li>
+  <li> Passionate about learning and creating stunning web experiences!</li>
+</ul>
+<strong>Skills:</strong>
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-af552e?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-af552e?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-af552e?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React-af552e?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Figma-af552e?style=flat-square&logo=Figma&logoColor=white" />
+</span>
