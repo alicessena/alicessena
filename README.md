@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=PROFILE&message=SENA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <ul >
-  <li> Aspiring Front-End Developer</li>
+  <li> Front-End Developer</li>
   <li> Passionate about learning and creating stunning web experiences!</li>
 </ul>
 <strong>Skills:</strong>
