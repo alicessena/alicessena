@@ -1,22 +1,44 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=alicessena&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+![](https://komarev.com/ghpvc/?username=alicessena&color=006bed)
 
-### 🌸 Hi there, I'm Sena!
+## Sobre mim
 
-<img src="https://img.shields.io/static/v1?label=PROFILE&message=SENA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+🎓 Estudante de Engenharia de Software na VINCIT e Engenharia Eletrônica na UFPE.  
+💻 Desenvolvedora em formação, apaixonada por tecnologia, programação e inovação.  
+🚀 Com experiência em React e JavaScript, meu foco é me tornar uma desenvolvedora full-stack e contribuir para projetos que impactem positivamente a sociedade.  
+🌱 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, banco de dados, Java e IoT.  
+✨ Busco oportunidades para colaborar em projetos desafiadores e crescer profissionalmente.  
+📫 Vamos conversar? Conecte-se comigo aqui no LinkedIn ou confira meus projetos no GitHub!
 
-<ul >
-  <li> Front-End Developer</li>
-  <li> Passionate about learning and creating stunning web experiences!</li>
-</ul>
-<strong>Skills:</strong>
-<span>
-  <img src="https://img.shields.io/badge/JavaScript-af552e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-af552e?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-af552e?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/React-af552e?style=flat-square&logo=react&logoColor=61DAFB"/>
-</span> <br>
-<strong>Design:</strong>
-<span> 
-  <img src="https://img.shields.io/badge/Figma-af552e?style=flat-square&logo=Figma&logoColor=1A1A1A"/>
-  <img src="https://img.shields.io/badge/AdobePhotoshop-af552e?style=flat-square&logo=adobephotoshop&logoColor=1A1A1A"/>
-</span>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alicessenapereira/)
+[![Gmail Badge](https://img.shields.io/badge/-alicesenaprincipal@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alicesenaprincipal@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/alicessena?label=follow&style=social)](https://github.com/alicessena)
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea&logoColor=00000)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+[![alicessena](https://github-readme-stats.vercel.app/api?username=alicessena&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![alicessena](https://github-readme-stats.vercel.app/api/top-langs/?username=alicessena&hide=html&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
