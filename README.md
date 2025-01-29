@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🎓 Estudante de Engenharia de Software na VINCIT e Engenharia Eletrônica na UFPE.  
+🎓 Estudante de Engenharia de Software.  
 💻 Desenvolvedora em formação, apaixonada por tecnologia, programação e inovação.  
 🚀 Com experiência em React e JavaScript, meu foco é me tornar uma desenvolvedora full-stack e contribuir para projetos que impactem positivamente a sociedade.  
 🌱 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, banco de dados, Java e IoT.  
