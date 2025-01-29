@@ -5,7 +5,7 @@
 🎓 Estudante de Engenharia de Software.  
 💻 Desenvolvedora em formação, apaixonada por tecnologia, programação e inovação.  
 🚀 Com experiência em React e JavaScript, meu foco é me tornar uma desenvolvedora full-stack e contribuir para projetos que impactem positivamente a sociedade.  
-🌱 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, banco de dados, Java e IoT.  
+🌱 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, banco de dados e Java.  
 ✨ Busco oportunidades para colaborar em projetos desafiadores e crescer profissionalmente.  
 📫 Vamos conversar? Conecte-se comigo aqui no LinkedIn ou confira meus projetos no GitHub!
 
