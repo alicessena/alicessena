@@ -42,3 +42,9 @@
 
 [![alicessena](https://github-readme-stats.vercel.app/api?username=alicessena&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![alicessena](https://github-readme-stats.vercel.app/api/top-langs/?username=alicessena&hide=html&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alicessena/alicessena/main.yml?label=action&style=flat-square)](https://github.com/alicessena/alicessena/actions/workflows/snale.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
