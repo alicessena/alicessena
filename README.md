@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=alicessena&color=006bed)
-
 ## Sobre mim
 
 🎓 Estudante de Engenharia de Software.  
