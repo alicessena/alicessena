@@ -40,7 +40,6 @@
 
 <br/>
 
-[![alicessena](https://github-readme-stats.vercel.app/api?username=alicessena&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![alicessena](https://github-readme-stats.vercel.app/api/top-langs/?username=alicessena&hide=html&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/alicessena/alicessena/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/GabrielaZanetti/alicessena/blob/output/github-contribution-grid-snake.svg)
 
