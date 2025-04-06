@@ -1,38 +1,80 @@
-## Sobre mim
+<h1 align="center"> 
+  👋 Olá, eu sou a Alice Sena!
+</h1>
 
-🎓 Estudante de Engenharia de Software.  
-💻 Desenvolvedora Full-Stack, apaixonada por tecnologia, programação e inovação.  
-🌱 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, banco de dados e Java.  
-✨ Busco oportunidades para colaborar em projetos desafiadores e crescer profissionalmente.  
-📫 Vamos conversar? Conecte-se comigo aqui no LinkedIn ou confira meus projetos no GitHub!
+<h3 align="center"> 
+  Engenheira de Software | FullStack Developer | Cyber Security
+</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alicessenapereira/)
-[![Gmail Badge](https://img.shields.io/badge/-alicesenaprincipal@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alicesenaprincipal@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/alicessena?label=follow&style=social)](https://github.com/alicessena)
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cyber%20Security-FF6D00?style=for-the-badge&logo=lock&logoColor=white" />
+</p>
 
-## Minhas Skills
+<p align="center">
+  <a href="mailto:alicesenaprincipal@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alicessenapereira/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-**Tecnologiass**
+---
+### **Front-End & Mobile**
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### **Back-End & DevOps**
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### **Segurança da Informação**
+<div>
+  <img src="https://img.shields.io/badge/ISO%2027001-%2300599C?style=for-the-badge&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/LGPD-%2300A651?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pentesting-%23E34F26?style=for-the-badge&logo=pentest&logoColor=white" />
+</div>
+
+## **Experiência Profissional**
 
 
-**Vercionamento de Código**
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://room8group.com/wp-content/uploads/2024/08/R8G1.svg"/>](https://www.room8group.com/)
 
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+**Analista de segurança da Informação (2025)** \
+[**Room8Group**](https://www.room8group.com/) • Meio-período \
+`ISO 27001`, `LGPD`, `Gestão de Vulnerabilidades`. `Pentest`, `Firewall`\
+<br/> 
 
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://storage.googleapis.com/octa-static-tenants/o185647-492/chat/2024-06-04/fp6W8jbwIfEN1d1-trv3V.jpg"/>](https://www.room8group.com/)
 
-**Ferramentas de desenvolvimento**
+**Líder de Equipe Front-End (2024)** \
+[**Rede Cidadã**](https://www.redecidada.org.br/) • Meio-período \
+`React.js`, `JavaScript`, `Styled-Components`. `Node.js`, `JSON`\
+<br/> 
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea&logoColor=00000)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobe-xd&logoColor=007ACC)
+---
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alicessena&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicessena&layout=compact&theme=radical&hide_border=true" />
+</div>
 
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alicessenapereira/">
+    <img src="https://img.shields.io/badge/-Vamos%20conversar%3F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
