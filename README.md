@@ -75,7 +75,7 @@
 `React`, `Java`, `Node`. \
 <br/> 
 
-[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://cdn.80.lv/api/upload/vendor/733/images/65da3c968e194/contain_1200x630.jpg"/>](https://www.room8group.com/)
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse4.mm.bing.net/th/id/OIP.Arj9GdO_XyKYs_QpOGr_XgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.room8group.com/)
 
 **Analista de segurança da Informação (2025)** \
 [**Room8Group**](https://www.room8group.com/) • Meio-período \
