@@ -58,15 +58,6 @@
 `Lógica de Programação e Algoritmos`, `Engenharia de Software`, `Desenvolvimento Web`. \
 <br/> 
 
-<!--
-[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQE-enjajn6tuw/company-logo_200_200/0/1604432291939?e=2159024400&v=beta&t=fOar2GvFRqO0ZNKBTGYDhRmZ1mxt4j3M2YXlT1SOapM"/>](https://ucb.catolica.edu.br/)
-
-**Ciência da Computação (Graduanda)** \
-[**Universidade Católica de Brasilia**](https://ucb.catolica.edu.br/) • Bacharelado \
-`Programação`, `Inteligência Artificial`, `Sistemas & Dados`. \
-<br/> 
--->
-
 [<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
 
 **Residência Tecnólogica do Porto Digital** \
@@ -77,14 +68,12 @@
 
 ## **Experiência Profissional**
 
-<!--
 [<img align="left" height="64px" width="64px" alt="Warpnet" src="https://financialservicesblog.accenture.com/wp-content/uploads/2023/02/337-1.png"/>](https://www.accenture.com/br-pt)
 
 **Tech Architecture Associate (Jr Lvl 12) (Atual)** \
 [**Accenture**](https://www.accenture.com/br-pt) • Estágio \
 `React`, `Java`, `Node`. \
 <br/> 
--->
 
 [<img align="left" height="64px" width="64px" alt="Warpnet" src="https://cdn.80.lv/api/upload/vendor/733/images/65da3c968e194/contain_1200x630.jpg"/>](https://www.room8group.com/)
 
