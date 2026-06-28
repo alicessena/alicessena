@@ -135,7 +135,7 @@
 ![](https://img.shields.io/badge/Categoria-Engenharia%20de%20Software-2EA44F?style=flat-square)
 ![](https://img.shields.io/badge/Organização-CESAR%20School-0A66C2?style=flat-square)
 
-### Mostra Tech Design 2026.2
+### Mostra Tech Design 2025.2
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/🌟-Projeto%20Destaque-FF69B4?style=flat-square)
