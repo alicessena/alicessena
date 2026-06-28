@@ -11,8 +11,8 @@
 
 <div align="center"> 
 <a href="mailto:alicesenaprincipal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="[https://www.linkedin.com/in/alicessenapereira/](https://www.linkedin.com/in/alicessenapereira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="[http://lattes.cnpq.br/3872830207210380](http://lattes.cnpq.br/3872830207210380)]" target="_blank"><img src="https://img.shields.io/badge/-lattes-8B5CF6?style=for-the-badge&logo=lattes&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/alicessenapereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="http://lattes.cnpq.br/3872830207210380" target="_blank"><img src="https://img.shields.io/badge/-lattes-8B5CF6?style=for-the-badge&logo=lattes&logoColor=white"></a> 
 </div> 
 <a href="https://github.com/alicessena?tab=followers">
   <img src="https://img.shields.io/github/followers/alicessena.svg?style=social&label=Follow&maxAge=2592000" />
