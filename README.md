@@ -107,7 +107,7 @@
 ![](https://img.shields.io/badge/Organização-Accenture%20%7C%20Casa%20Zero-0A66C2?style=flat-square)
 
 
-### Hack Vibe Queer
+### Hack Vibe Queer | [GAG](https://github.com/alicessena/GAGSHackVibe)
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/Evento-Hack%20Vibe%20Queer-6F42C1?style=flat-square)
@@ -119,7 +119,7 @@
 ![](https://img.shields.io/badge/Evento-Hackathon%20BBTS-6F42C1?style=flat-square)
 ![](https://img.shields.io/badge/Organização-Banco%20do%20Brasil%20%7C%20Stefanini-0A66C2?style=flat-square)
 
-### Coday Porto Digital 2026.1
+### Coday Porto Digital 2026.1 | [Saúde Mais](https://github.com/alicessena/SaudeMais)
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/🌟-Equipe%20e%20Projeto%20Destaque-FF69B4?style=flat-square)
@@ -127,7 +127,7 @@
 ![](https://img.shields.io/badge/Organização-Porto%20Digital%20%7C%20Capgemini-0A66C2?style=flat-square)
 
 
-### Dupla Vitória no Mostra Tech Design 2026.1
+### Dupla Vitória no Mostra Tech Design 2026.1 | [TECTRIS](https://github.com/alicessena/TECTRIS)
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/🌟-Projeto%20Destaque-FF69B4?style=flat-square)
@@ -135,7 +135,7 @@
 ![](https://img.shields.io/badge/Categoria-Engenharia%20de%20Software-2EA44F?style=flat-square)
 ![](https://img.shields.io/badge/Organização-CESAR%20School-0A66C2?style=flat-square)
 
-### Mostra Tech Design 2025.2
+### Mostra Tech Design 2025.2 | [TYREZIA](https://github.com/alicessena/TYREZIA-Arduino)
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/🌟-Projeto%20Destaque-FF69B4?style=flat-square)
@@ -143,7 +143,7 @@
 ![](https://img.shields.io/badge/Organização-CESAR%20School-0A66C2?style=flat-square)
 
 
-### Demoday Porto Digital 2025.2
+### Demoday Porto Digital 2025.2 | [Avance](https://github.com/jaozinnm/Avance)
 
 ![](https://img.shields.io/badge/🎯-Equipe%20Finalista-4285F4?style=flat-square)
 ![](https://img.shields.io/badge/Evento-Demoday%20Porto%20Digital-6F42C1?style=flat-square)
